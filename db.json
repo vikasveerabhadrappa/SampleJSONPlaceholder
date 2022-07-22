@@ -1,204 +1,3726 @@
 {
-  "prescriptions": [
+  "status": "Success",
+  "prescriptionResponse": [
     {
-      "id": 1972691181129730,
-      "patientName": "John Cook",
-      "birthDate": "31/05/1991",
-      "authorizingProvider": "Winston, Harry S",
-      "providerId": 1807526517021910,
       "prescriptionDetails": [
         {
-          "requestedDate": "12/06/2022",
-          "medication": "Advil 200 mg tablet",
-          "pharmacy": "Boulevard Pharmacy (Boulevard) (C) (R) (E) - 1117 S.E. Frank Phillips Blvd., Bartlesville OK 740034319",
-          "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Error",
-          "preparer": "Miller, Jennifer S"
+          "prescriptionId": 1971855550575170,
+          "prescriptionRcopiaIdentifier": "41351541125",
+          "medication": {
+            "mId": 1971855550575180,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Adverse Reaction"
         },
         {
-          "requestedDate": "11/06/2022",
-          "medication": "Zoloft 100 mg table",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Pending",
-          "preparer": "Topper, Henry P"
+          "prescriptionId": 1971899804593140,
+          "prescriptionRcopiaIdentifier": "41351541125",
+          "medication": {
+            "mId": 1971899804593130,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Adverse Reaction"
+        },
+        {
+          "prescriptionId": 1971894664590840,
+          "prescriptionRcopiaIdentifier": "41351541695",
+          "medication": {
+            "mId": 1971894664590850,
+            "medicationDescription": "Dologen 650-2 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Adverse Reaction"
+        },
+        {
+          "prescriptionId": 1971902876594590,
+          "prescriptionRcopiaIdentifier": "41351541714",
+          "medication": {
+            "mId": 1971902876594600,
+            "medicationDescription": "folic acid 1 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Adverse Reaction"
+        },
+        {
+          "prescriptionId": 1971905724597500,
+          "prescriptionRcopiaIdentifier": "41351541722",
+          "medication": {
+            "mId": 1971905724597470,
+            "medicationDescription": "maca extract 500 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Adverse Reaction"
+        },
+        {
+          "prescriptionId": 1971905724597480,
+          "prescriptionRcopiaIdentifier": "41351541729",
+          "medication": {
+            "mId": 1971905724597490,
+            "medicationDescription": "M-Natal Plus 27 mg iron- 1 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Adverse Reaction"
+        },
+        {
+          "prescriptionId": 1971909449601720,
+          "prescriptionRcopiaIdentifier": "41351541733",
+          "medication": {
+            "mId": 1971909449601730,
+            "medicationDescription": "Dologen 650 mg-2 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Formulary Compliance"
+        },
+        {
+          "prescriptionId": 1971914357603900,
+          "prescriptionRcopiaIdentifier": "41351541738",
+          "medication": {
+            "mId": 1971914357603910,
+            "medicationDescription": "Vabysmo 6 mg/0.05 mL intravitreal solution"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1971914357603920,
+          "prescriptionRcopiaIdentifier": "41351541739",
+          "medication": {
+            "mId": 1971914356603890,
+            "medicationDescription": "M-Natal Plus 27 mg iron- 1 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Lack of efficacy"
+        },
+        {
+          "prescriptionId": 1972015815659510,
+          "prescriptionRcopiaIdentifier": "41351542744",
+          "medication": {
+            "mId": 1972015815659520,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972015816659530,
+          "prescriptionRcopiaIdentifier": "41351542745",
+          "medication": {
+            "mId": 1972015816659540,
+            "medicationDescription": "folic acid 1 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972015816659550,
+          "prescriptionRcopiaIdentifier": "41351542746",
+          "medication": {
+            "mId": 1972015816659560,
+            "medicationDescription": "Pradaxa 110 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972015816659570,
+          "prescriptionRcopiaIdentifier": "41351542747",
+          "medication": {
+            "mId": 1972015816659580,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972015816659590,
+          "prescriptionRcopiaIdentifier": "41351542748",
+          "medication": {
+            "mId": 1972015816659600,
+            "medicationDescription": "maca extract 500 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 6222 1205 N COMMERCE ST, ARDMORE, OK 73401, Ph: (580) 223-3819 Fax: (580) 226-9757\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         }
-      ]
+      ],
+      "patient": {
+        "pId": 1971853685573610,
+        "firstName": "test",
+        "lastName": "CEMworkflow",
+        "dob": "2004-06-27T00:00:00Z",
+        "patientName": "test CEMworkflow "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971853685573610-1966807527608060"
     },
     {
-      "id": 1973124518230450,
-      "patientName": "John Hammer",
-      "birthDate": "04/05/2000",
-      "authorizingProvider": "Topper, Henry P",
-      "providerId": 1807526664022340,
       "prescriptionDetails": [
         {
-          "requestedDate": "12/06/2022",
-          "medication": "Zoloft 100 mg table",
-          "pharmacy": "CHICKASAW NATION HEALTH DEPT (C) (R) (E) - 1921 STONECIPHER BOULEVARD, ADA OK 74820",
-          "rxTransmissionType": "Fax",
-          "rxTransmissionStatusCode": "Pending",
-          "preparer": "Brown, Chris H"
+          "prescriptionId": 1971904688596360,
+          "prescriptionRcopiaIdentifier": "41351541723",
+          "medication": {
+            "mId": 1971904688596340,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         }
-      ]
+      ],
+      "patient": {
+        "pId": 1971903704595260,
+        "firstName": "TestUser12",
+        "lastName": "LastName123334245",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123334245 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971903704595260-1966807527608060"
     },
     {
-      "id": 1973268202429180,
-      "patientName": "Tom Wells",
-      "birthDate": "01/04/2010",
-      "authorizingProvider": "Starr, Kelly P",
-      "providerId": 1966265323589190,
       "prescriptionDetails": [
         {
-          "requestedDate": "11/06/2022",
-          "medication": "Vitamin B-1 (mononitrate) 100 mg tablet",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Fax",
-          "rxTransmissionStatusCode": "Error",
-          "preparer": "Winston, Harry S"
+          "prescriptionId": 1971916377605860,
+          "prescriptionRcopiaIdentifier": "41351541754",
+          "medication": {
+            "mId": 1971916377605870,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         },
         {
-          "requestedDate": "12/06/2022",
-          "medication": "Zoloft 100 mg table",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Pending",
-          "preparer": "Topper, Henry P"
+          "prescriptionId": 1971916703606190,
+          "prescriptionRcopiaIdentifier": "41351541756",
+          "medication": {
+            "mId": 1971916703606200,
+            "medicationDescription": "Dologen 650-2 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         },
         {
-          "requestedDate": "12/06/2022",
-          "medication": "Zarah 3-0.03 mg tablet (drospirenone-ethinyl estradiol)",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Fax",
-          "rxTransmissionStatusCode": "Pending",
-          "preparer": "Topper, Henry P"
+          "prescriptionId": 1971919770608140,
+          "prescriptionRcopiaIdentifier": "41351541775",
+          "medication": {
+            "mId": 1971919770608150,
+            "medicationDescription": "H2Q 100 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         },
         {
-          "requestedDate": "12/06/2022",
-          "medication": "Fanapt 6 mg tablet (iloperidone)",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Error",
-          "preparer": "Topper, Henry P"
+          "prescriptionId": 1971927723611370,
+          "prescriptionRcopiaIdentifier": "41351541777",
+          "medication": {
+            "mId": 1971927723611360,
+            "medicationDescription": "maca extract 500 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Formulary Compliance"
         }
-      ]
+      ],
+      "patient": {
+        "pId": 1971914364603930,
+        "firstName": "test",
+        "lastName": "officedemo",
+        "dob": "2004-06-28T00:00:00Z",
+        "patientName": "test officedemo "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971914364603930-1966807527608060"
     },
     {
-      "id": 1973375730757550,
-      "patientName": "Tim Urban",
-      "birthDate": "04/05/1996",
-      "authorizingProvider": "Winston, Harry S",
-      "providerId": 1197213158001100,
       "prescriptionDetails": [
         {
-          "requestedDate": "12/06/2022",
-          "medication": "atenolol 100 mg tablet",
-          "pharmacy": "Brooklyn @ Gates Pharmacy (C) (R) (SP) (LTC) (E) - 92 Gates Ave (Gates & Washington Aves), Brooklyn NY 11238",
-          "rxTransmissionType": "Fax",
-          "rxTransmissionStatusCode": "Pending",
-          "preparer": "Starr, Kelly P"
+          "prescriptionId": 1971942147618590,
+          "prescriptionRcopiaIdentifier": "41351542089",
+          "medication": {
+            "mId": 1971942147618570,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         }
-      ]
+      ],
+      "patient": {
+        "pId": 1971903704595440,
+        "firstName": "TestUser12",
+        "lastName": "LastName12342916",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName12342916 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971903704595440-1966807527608060"
     },
     {
-      "id": 5,
-      "patientName": "Liam Davis",
-      "birthDate": "04/05/1996",
-      "authorizingProvider": "Winston, Harry S",
-      "providerId": 1807526517021910,
       "prescriptionDetails": [
         {
-          "requestedDate": "12/06/2022",
-          "medication": "Vitamin C 100 mg tablet (ascorbic acid (vitamin c))",
-          "pharmacy": "Brooklyn @ Gates Pharmacy (C) (R) (SP) (LTC) (E) - 92 Gates Ave (Gates & Washington Aves), Brooklyn NY 11238",
-          "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Error",
-          "preparer": "Starr, Kelly P"
+          "prescriptionId": 1971943416620310,
+          "prescriptionRcopiaIdentifier": "41351542103",
+          "medication": {
+            "mId": 1971943416620290,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         }
-      ]
+      ],
+      "patient": {
+        "pId": 1971941775617780,
+        "firstName": "TestUser12",
+        "lastName": "LastName123384731",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123384731 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971941775617780-1966807527608060"
     },
     {
-      "id": 6,
-      "patientName": "Noah Lopez",
-      "birthDate": "21/05/1981",
-      "authorizingProvider": "Winston, Harry S",
-      "providerId": 1807526517021910,
       "prescriptionDetails": [
         {
-          "requestedDate": "12/06/2022",
-          "medication": "Advil 200 mg tablet",
-          "pharmacy": "Boulevard Pharmacy (Boulevard) (C) (R) (E) - 1117 S.E. Frank Phillips Blvd., Bartlesville OK 740034319",
-          "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Error",
-          "preparer": "Miller, Jennifer S"
-        },
-        {
-          "requestedDate": "12/06/2022",
-          "medication": "Zoloft 100 mg table",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Pending",
-          "preparer": "Topper, Henry P"
+          "prescriptionId": 1971991405640170,
+          "prescriptionRcopiaIdentifier": "41351542687",
+          "medication": {
+            "mId": 1971991405640150,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         }
-      ]
+      ],
+      "patient": {
+        "pId": 1971941775617840,
+        "firstName": "TestUser12",
+        "lastName": "LastName123178645",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123178645 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971941775617840-1966807527608060"
     },
     {
-      "id": 7,
-      "patientName": "Jack Miller",
-      "birthDate": "03/05/2004",
-      "authorizingProvider": "Topper, Henry P",
-      "providerId": 1807526517021910,
       "prescriptionDetails": [
         {
-          "requestedDate": "12/06/2022",
-          "medication": "Zoloft 100 mg table",
-          "pharmacy": "CHICKASAW NATION HEALTH DEPT (C) (R) (E) - 1921 STONECIPHER BOULEVARD, ADA OK 74820",
-          "rxTransmissionType": "Fax",
-          "rxTransmissionStatusCode": "Pending",
-          "preparer": "Brown, Chris H"
+          "prescriptionId": 1971997016643820,
+          "prescriptionRcopiaIdentifier": "41351542702",
+          "medication": {
+            "mId": 1971997016643800,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         }
-      ]
+      ],
+      "patient": {
+        "pId": 1971941775617900,
+        "firstName": "TestUser12",
+        "lastName": "LastName123511909",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123511909 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971941775617900-1966807527608060"
     },
     {
-      "id": 8,
-      "patientName": "Ethan Hawke",
-      "birthDate": "04/04/2000",
-      "authorizingProvider": "Starr, Kelly P",
-      "providerId": 1807526517021910,
       "prescriptionDetails": [
         {
-          "requestedDate": "12/06/2022",
-          "medication": "Vitamin B-1 (mononitrate) 100 mg tablet",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Fax",
-          "rxTransmissionStatusCode": "Error",
-          "preparer": "Winston, Harry S"
-        },
-        {
-          "requestedDate": "12/06/2022",
-          "medication": "Zoloft 100 mg table",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Pending",
-          "preparer": "Topper, Henry P"
-        },
-        {
-          "requestedDate": "12/06/2022",
-          "medication": "Zarah 3-0.03 mg tablet (drospirenone-ethinyl estradiol)",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Fax",
-          "rxTransmissionStatusCode": "Pending",
-          "preparer": "Topper, Henry P"
-        },
-        {
-          "requestedDate": "12/06/2022",
-          "medication": "Fanapt 6 mg tablet (iloperidone)",
-          "pharmacy": "Don Coody Pharmacy (C) (R) (E) - 7530 N.W. 23rd Street, Bethany OK 730084921",
-          "rxTransmissionType": "Electronic",
-          "rxTransmissionStatusCode": "Error",
-          "preparer": "Topper, Henry P"
+          "prescriptionId": 1971999027646280,
+          "prescriptionRcopiaIdentifier": "41351542707",
+          "medication": {
+            "mId": 1971999027646260,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
         }
-      ]
+      ],
+      "patient": {
+        "pId": 1971998669645350,
+        "firstName": "TestUser12",
+        "lastName": "LastName123414672",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123414672 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971998669645350-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972003457649780,
+          "prescriptionRcopiaIdentifier": "41351542723",
+          "medication": {
+            "mId": 1972003457649760,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972003961650520,
+          "prescriptionRcopiaIdentifier": "41351542725",
+          "medication": {
+            "mId": 1972003961650510,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972004686651370,
+          "prescriptionRcopiaIdentifier": "41351542728",
+          "medication": {
+            "mId": 1972004685651350,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972013331658360,
+          "prescriptionRcopiaIdentifier": "41351542749",
+          "medication": {
+            "mId": 1972013330658350,
+            "medicationDescription": "vitamin A acetate (bulk) 325,000 unit/gram beads"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972013696658580,
+          "prescriptionRcopiaIdentifier": "41351542749",
+          "medication": {
+            "mId": 1972013330658350,
+            "medicationDescription": "vitamin A acetate (bulk) 325,000 unit/gram beads"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1971998669645410,
+        "firstName": "TestUser12",
+        "lastName": "LastName123853344",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123853344 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971998669645410-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972010472655950,
+          "prescriptionRcopiaIdentifier": "41351542741",
+          "medication": {
+            "mId": 1972010472655930,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1971998669645470,
+        "firstName": "TestUser12",
+        "lastName": "LastName123493894",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123493894 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1971998669645470-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972016381661090,
+          "prescriptionRcopiaIdentifier": "41351542750",
+          "medication": {
+            "mId": 1972016381661070,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972016035660230,
+        "firstName": "TestUser12",
+        "lastName": "LastName123871097",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123871097 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972016035660230-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972020045664300,
+          "prescriptionRcopiaIdentifier": "41351542755",
+          "medication": {
+            "mId": 1972020045664310,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972025177667290,
+          "prescriptionRcopiaIdentifier": "41351542872",
+          "medication": {
+            "mId": 1972025177667280,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972025857668350,
+          "prescriptionRcopiaIdentifier": "41351542878",
+          "medication": {
+            "mId": 1972025856668340,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972016035660290,
+        "firstName": "TestUser12",
+        "lastName": "LastName123366690",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123366690 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972016035660290-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972026514669550,
+          "prescriptionRcopiaIdentifier": "41351542882",
+          "medication": {
+            "mId": 1972026514669530,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972027559670310,
+          "prescriptionRcopiaIdentifier": "41351542887",
+          "medication": {
+            "mId": 1972027559670300,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972016035660350,
+        "firstName": "TestUser12",
+        "lastName": "LastName123493643",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123493643 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972016035660350-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972029043672370,
+          "prescriptionRcopiaIdentifier": "41351542904",
+          "medication": {
+            "mId": 1972029043672350,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972029550673020,
+          "prescriptionRcopiaIdentifier": "41351542911",
+          "medication": {
+            "mId": 1972029549673010,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972028547671430,
+        "firstName": "TestUser12",
+        "lastName": "LastName123320775",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123320775 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972028547671430-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972032140675010,
+          "prescriptionRcopiaIdentifier": "41351542954",
+          "medication": {
+            "mId": 1972032140674990,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972032655675550,
+          "prescriptionRcopiaIdentifier": "41351542957",
+          "medication": {
+            "mId": 1972032655675540,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972028547671490,
+        "firstName": "TestUser12",
+        "lastName": "LastName12356063",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName12356063 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972028547671490-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972034478677200,
+          "prescriptionRcopiaIdentifier": "41351543027",
+          "medication": {
+            "mId": 1972034478677180,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972034875677640,
+          "prescriptionRcopiaIdentifier": "41351543044",
+          "medication": {
+            "mId": 1972034874677630,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972028547671550,
+        "firstName": "TestUser12",
+        "lastName": "LastName123473790",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123473790 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972028547671550-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972068373692210,
+          "prescriptionRcopiaIdentifier": "41351543747",
+          "medication": {
+            "mId": 1972068373692190,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972068755692650,
+          "prescriptionRcopiaIdentifier": "41351543754",
+          "medication": {
+            "mId": 1972068754692640,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972068055691350,
+        "firstName": "TestUser12",
+        "lastName": "LastName123519719",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123519719 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972068055691350-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972088482702080,
+          "prescriptionRcopiaIdentifier": "41351543773",
+          "medication": {
+            "mId": 1972084974700510,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972088482702070,
+          "prescriptionRcopiaIdentifier": "41351544147",
+          "medication": {
+            "mId": 1972084974700510,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972088482702060,
+          "prescriptionRcopiaIdentifier": "41351544157",
+          "medication": {
+            "mId": 1972088476702040,
+            "medicationDescription": "Dologen 650-2 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Prescribed in error"
+        }
+      ],
+      "patient": {
+        "pId": 1972068055691410,
+        "firstName": "TestUser12",
+        "lastName": "LastName123510752",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123510752 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972068055691410-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972089654703600,
+          "prescriptionRcopiaIdentifier": "41351544305",
+          "medication": {
+            "mId": 1972089053703360,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972068055691470,
+        "firstName": "TestUser12",
+        "lastName": "LastName123614146",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123614146 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972068055691470-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972094626708490,
+          "prescriptionRcopiaIdentifier": "41351544343",
+          "medication": {
+            "mId": 1972090699705160,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972068055691530,
+        "firstName": "TestUser12",
+        "lastName": "LastName123248530",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123248530 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972068055691530-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972094626708500,
+          "prescriptionRcopiaIdentifier": "41351544390",
+          "medication": {
+            "mId": 1972093218707170,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972090361704420,
+        "firstName": "TestUser12",
+        "lastName": "LastName12321401",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName12321401 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972090361704420-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972162356740150,
+          "prescriptionRcopiaIdentifier": "41351545491",
+          "medication": {
+            "mId": 1972162356740130,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972163001740700,
+          "prescriptionRcopiaIdentifier": "41351545512",
+          "medication": {
+            "mId": 1972163001740690,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972162030739310,
+        "firstName": "TestUser12",
+        "lastName": "LastName123468982",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123468982 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972162030739310-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972174388748740,
+          "prescriptionRcopiaIdentifier": "41351545723",
+          "medication": {
+            "mId": 1972174388748720,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972174788749190,
+          "prescriptionRcopiaIdentifier": "41351545736",
+          "medication": {
+            "mId": 1972174788749170,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972180781755250,
+          "prescriptionRcopiaIdentifier": "41351545945",
+          "medication": {
+            "mId": 1972180781755240,
+            "medicationDescription": "losartan 25 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972174048747350,
+        "firstName": "TestUser12",
+        "lastName": "LastName123541400",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123541400 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972174048747350-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972175933750610,
+          "prescriptionRcopiaIdentifier": "41351545780",
+          "medication": {
+            "mId": 1972175933750590,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972176325751150,
+          "prescriptionRcopiaIdentifier": "41351545794",
+          "medication": {
+            "mId": 1972176325751130,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972174048747410,
+        "firstName": "TestUser12",
+        "lastName": "LastName123684384",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123684384 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972174048747410-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972182275756990,
+          "prescriptionRcopiaIdentifier": "41351545965",
+          "medication": {
+            "mId": 1972182274756970,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972182677757530,
+          "prescriptionRcopiaIdentifier": "41351545973",
+          "medication": {
+            "mId": 1972182677757510,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972180743754780,
+        "firstName": "TestUser12",
+        "lastName": "LastName123806896",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123806896 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972180743754780-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972183595758840,
+          "prescriptionRcopiaIdentifier": "41351545989",
+          "medication": {
+            "mId": 1972183595758820,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972184042759300,
+          "prescriptionRcopiaIdentifier": "41351545992",
+          "medication": {
+            "mId": 1972184041759280,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972180743754840,
+        "firstName": "TestUser12",
+        "lastName": "LastName123574241",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123574241 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972180743754840-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972185027760900,
+          "prescriptionRcopiaIdentifier": "41351546010",
+          "medication": {
+            "mId": 1972185027760880,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972185440761350,
+          "prescriptionRcopiaIdentifier": "41351546019",
+          "medication": {
+            "mId": 1972185439761330,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972184696759950,
+        "firstName": "TestUser12",
+        "lastName": "LastName123671058",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123671058 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972184696759950-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972186461762670,
+          "prescriptionRcopiaIdentifier": "41351546038",
+          "medication": {
+            "mId": 1972186461762650,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972187560763450,
+          "prescriptionRcopiaIdentifier": "41351546062",
+          "medication": {
+            "mId": 1972187560763430,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972184696760010,
+        "firstName": "TestUser12",
+        "lastName": "LastName123774679",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123774679 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972184696760010-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972188535764760,
+          "prescriptionRcopiaIdentifier": "41351546088",
+          "medication": {
+            "mId": 1972188535764740,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972250215789510,
+          "prescriptionRcopiaIdentifier": "41351546787",
+          "medication": {
+            "mId": 1972250215789490,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972184696760070,
+        "firstName": "TestUser12",
+        "lastName": "LastName123713768",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123713768 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972184696760070-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972252362791280,
+          "prescriptionRcopiaIdentifier": "41351546798",
+          "medication": {
+            "mId": 1972252362791260,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972253075792060,
+          "prescriptionRcopiaIdentifier": "41351546803",
+          "medication": {
+            "mId": 1972253075792040,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972249477788390,
+        "firstName": "TestUser12",
+        "lastName": "LastName123493362",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123493362 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972249477788390-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972260635800030,
+          "prescriptionRcopiaIdentifier": "41351546826",
+          "medication": {
+            "mId": 1972260635800010,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972261121800590,
+          "prescriptionRcopiaIdentifier": "41351546830",
+          "medication": {
+            "mId": 1972261121800570,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972249477788450,
+        "firstName": "TestUser12",
+        "lastName": "LastName123115335",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123115335 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972249477788450-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972268016813320,
+          "prescriptionRcopiaIdentifier": "41351546885",
+          "medication": {
+            "mId": 1972268016813300,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972268407814000,
+          "prescriptionRcopiaIdentifier": "41351546889",
+          "medication": {
+            "mId": 1972268407813980,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972267694812290,
+        "firstName": "TestUser12",
+        "lastName": "LastName123125833",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123125833 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972267694812290-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972269483815980,
+          "prescriptionRcopiaIdentifier": "41351546908",
+          "medication": {
+            "mId": 1972269483815960,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972267694812400,
+        "firstName": "TestUser12",
+        "lastName": "LastName123328872",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123328872 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972267694812400-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972270785818820,
+          "prescriptionRcopiaIdentifier": "41351546937",
+          "medication": {
+            "mId": 1972270785818800,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972269931816890,
+        "firstName": "TestUser12",
+        "lastName": "LastName123781213",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123781213 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972269931816890-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972274717824470,
+          "prescriptionRcopiaIdentifier": "41351546992",
+          "medication": {
+            "mId": 1972274717824440,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972274717824460,
+          "prescriptionRcopiaIdentifier": "41351546993",
+          "medication": {
+            "mId": 1972274717824440,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972269931817000,
+        "firstName": "TestUser12",
+        "lastName": "LastName123639707",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123639707 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972269931817000-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972275468825930,
+          "prescriptionRcopiaIdentifier": "41351546998",
+          "medication": {
+            "mId": 1972275468825910,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972275131825100,
+        "firstName": "TestUser12",
+        "lastName": "LastName123367005",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123367005 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972275131825100-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972276504827290,
+          "prescriptionRcopiaIdentifier": "41351547015",
+          "medication": {
+            "mId": 1972276504827270,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972275131825160,
+        "firstName": "TestUser12",
+        "lastName": "LastName123812118",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123812118 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972275131825160-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972278269828920,
+          "prescriptionRcopiaIdentifier": "41351547021",
+          "medication": {
+            "mId": 1972278269828900,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972275131825220,
+        "firstName": "TestUser12",
+        "lastName": "LastName123602721",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123602721 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972275131825220-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972279680832120,
+          "prescriptionRcopiaIdentifier": "41351547025",
+          "medication": {
+            "mId": 1972279680832100,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972284364834680,
+          "prescriptionRcopiaIdentifier": "41351547038",
+          "medication": {
+            "mId": 1972284364834660,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972292322839760,
+          "prescriptionRcopiaIdentifier": "41351547122",
+          "medication": {
+            "mId": 1972292322839750,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972292798840090,
+          "prescriptionRcopiaIdentifier": "41351547125",
+          "medication": {
+            "mId": 1972292798840080,
+            "medicationDescription": "Dologen 650-2 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972292951840410,
+          "prescriptionRcopiaIdentifier": "41351547131",
+          "medication": {
+            "mId": 1972292951840400,
+            "medicationDescription": "H2Q 100 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972278611829570,
+        "firstName": "TestUser12",
+        "lastName": "LastName123691668",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123691668 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972278611829570-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972439019871800,
+          "prescriptionRcopiaIdentifier": "41351547975",
+          "medication": {
+            "mId": 1972438980871780,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972439489872550,
+          "prescriptionRcopiaIdentifier": "41351547976",
+          "medication": {
+            "mId": 1972439489872530,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972438654870960,
+        "firstName": "TestUser12",
+        "lastName": "LastName123169070",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123169070 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972438654870960-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972443336875000,
+          "prescriptionRcopiaIdentifier": "41351547977",
+          "medication": {
+            "mId": 1972443336874980,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972443758875450,
+          "prescriptionRcopiaIdentifier": "41351547978",
+          "medication": {
+            "mId": 1972443757875440,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972438654871020,
+        "firstName": "TestUser12",
+        "lastName": "LastName123297369",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123297369 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972438654871020-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972444288876630,
+          "prescriptionRcopiaIdentifier": "41351547979",
+          "medication": {
+            "mId": 1972444288876610,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972444699877090,
+          "prescriptionRcopiaIdentifier": "41351547980",
+          "medication": {
+            "mId": 1972444699877070,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972438654871080,
+        "firstName": "TestUser12",
+        "lastName": "LastName123490003",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123490003 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972438654871080-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972445169878470,
+          "prescriptionRcopiaIdentifier": "41351547981",
+          "medication": {
+            "mId": 1972445169878450,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972445489878900,
+          "prescriptionRcopiaIdentifier": "41351547982",
+          "medication": {
+            "mId": 1972445489878890,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972444897877610,
+        "firstName": "TestUser12",
+        "lastName": "LastName12360204",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName12360204 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972444897877610-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972445779879780,
+          "prescriptionRcopiaIdentifier": "41351547983",
+          "medication": {
+            "mId": 1972445779879760,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972446095880220,
+          "prescriptionRcopiaIdentifier": "41351547984",
+          "medication": {
+            "mId": 1972446094880200,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972444897877660,
+        "firstName": "TestUser12",
+        "lastName": "LastName123338825",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123338825 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972444897877660-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972553673946900,
+          "prescriptionRcopiaIdentifier": "41351548701",
+          "medication": {
+            "mId": 1972553672946880,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972551626942120,
+        "firstName": "TestUser12",
+        "lastName": "LastName12355795",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName12355795 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972551626942120-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972554198948290,
+          "prescriptionRcopiaIdentifier": "41351548706",
+          "medication": {
+            "mId": 1972554198948270,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972551626942170,
+        "firstName": "TestUser12",
+        "lastName": "LastName123513923",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123513923 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972551626942170-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972591416979700,
+          "prescriptionRcopiaIdentifier": "41351548980",
+          "medication": {
+            "mId": 1972591416979680,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972591737980280,
+          "prescriptionRcopiaIdentifier": "41351548981",
+          "medication": {
+            "mId": 1972591737980270,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972591141978620,
+        "firstName": "TestUser12",
+        "lastName": "LastName123398453",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123398453 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972591141978620-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972592033981260,
+          "prescriptionRcopiaIdentifier": "41351548982",
+          "medication": {
+            "mId": 1972592033981240,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972591141978670,
+        "firstName": "TestUser12",
+        "lastName": "LastName123117080",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123117080 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972591141978670-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972593054983280,
+          "prescriptionRcopiaIdentifier": "41351548985",
+          "medication": {
+            "mId": 1972593054983260,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972593382984560,
+          "prescriptionRcopiaIdentifier": "41351548986",
+          "medication": {
+            "mId": 1972593382984550,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972591141978720,
+        "firstName": "TestUser12",
+        "lastName": "LastName123603586",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123603586 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972591141978720-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972593674985750,
+          "prescriptionRcopiaIdentifier": "41351548990",
+          "medication": {
+            "mId": 1972593674985730,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972593993987410,
+          "prescriptionRcopiaIdentifier": "41351548997",
+          "medication": {
+            "mId": 1972593993987390,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972591141978770,
+        "firstName": "TestUser12",
+        "lastName": "LastName123846483",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123846483 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972591141978770-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972594371989060,
+          "prescriptionRcopiaIdentifier": "41351549002",
+          "medication": {
+            "mId": 1972594371989050,
+            "medicationDescription": "Tracleer 62.5 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972594437989180,
+          "prescriptionRcopiaIdentifier": "41351549003",
+          "medication": {
+            "mId": 1972594437989170,
+            "medicationDescription": "Re-Gen liquid"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972594506989390,
+          "prescriptionRcopiaIdentifier": "41351549005",
+          "medication": {
+            "mId": 1972594506989380,
+            "medicationDescription": "C-1000 1,000 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972594558989630,
+          "prescriptionRcopiaIdentifier": "41351549006",
+          "medication": {
+            "mId": 1972594558989620,
+            "medicationDescription": "D-Penamine 125 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972594629989780,
+          "prescriptionRcopiaIdentifier": "41351549007",
+          "medication": {
+            "mId": 1972594629989770,
+            "medicationDescription": "V-C Forte 1 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972594732989960,
+          "prescriptionRcopiaIdentifier": "41351549008",
+          "medication": {
+            "mId": 1972594732989930,
+            "medicationDescription": "V-C Forte 1 mg capsule"
+          },
+          "pharmacy": "Mercy Hospital Ada Pharmacy 430 N. Monte Vista, Ada, OK 74820, Ph: (580) 421-1508 Fax: (580) 421-6035\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972594732989950,
+          "prescriptionRcopiaIdentifier": "41351549009",
+          "medication": {
+            "mId": 1972594732989920,
+            "medicationDescription": "Wakix 4.45 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972594783990080,
+          "prescriptionRcopiaIdentifier": "41351549011",
+          "medication": {
+            "mId": 1972594783990070,
+            "medicationDescription": "B Complex 1.7-20-2-1.2 mg/mL liquid"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972594831990400,
+          "prescriptionRcopiaIdentifier": "41351549012",
+          "medication": {
+            "mId": 1972594831990390,
+            "medicationDescription": "G-Dologen 650-2 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972594120987990,
+        "firstName": "rx",
+        "lastName": "pres",
+        "dob": "1887-01-02T00:00:00Z",
+        "patientName": "rx pres "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972594120987990-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972596372993280,
+          "prescriptionRcopiaIdentifier": "41351549016",
+          "medication": {
+            "mId": 1972596372993260,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972596088992160,
+        "firstName": "TestUser12",
+        "lastName": "LastName123613790",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123613790 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972596088992160-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972597487996100,
+          "prescriptionRcopiaIdentifier": "41351549018",
+          "medication": {
+            "mId": 1972597487996080,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972596088992250,
+        "firstName": "TestUser12",
+        "lastName": "LastName123867710",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123867710 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972596088992250-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972598911998340,
+          "prescriptionRcopiaIdentifier": "41351549019",
+          "medication": {
+            "mId": 1972598911998320,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972596088992300,
+        "firstName": "TestUser12",
+        "lastName": "LastName123794974",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123794974 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972596088992300-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972629681017220,
+          "prescriptionRcopiaIdentifier": "41351549065",
+          "medication": {
+            "mId": 1972629681017200,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972613426009450,
+        "firstName": "TestUser12",
+        "lastName": "LastName123557182",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123557182 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972613426009450-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972630500018560,
+          "prescriptionRcopiaIdentifier": "41351549070",
+          "medication": {
+            "mId": 1972630500018540,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972630899019060,
+          "prescriptionRcopiaIdentifier": "41351549072",
+          "medication": {
+            "mId": 1972630899019050,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972613426009500,
+        "firstName": "TestUser12",
+        "lastName": "LastName123202798",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123202798 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972613426009500-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972631283020350,
+          "prescriptionRcopiaIdentifier": "41351549078",
+          "medication": {
+            "mId": 1972631283020330,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972631619020790,
+          "prescriptionRcopiaIdentifier": "41351549082",
+          "medication": {
+            "mId": 1972631619020770,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972631042019510,
+        "firstName": "TestUser12",
+        "lastName": "LastName123505367",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123505367 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972631042019510-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972632137021980,
+          "prescriptionRcopiaIdentifier": "41351549087",
+          "medication": {
+            "mId": 1972632137021960,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972675540040050,
+          "prescriptionRcopiaIdentifier": "41351549655",
+          "medication": {
+            "mId": 1972675540040030,
+            "medicationDescription": "losartan 25 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972675585040170,
+          "prescriptionRcopiaIdentifier": "41351549656",
+          "medication": {
+            "mId": 1972675585040160,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972631042019550,
+        "firstName": "TestUser12",
+        "lastName": "LastName123134782",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123134782 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972631042019550-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1972632483022740,
+          "prescriptionRcopiaIdentifier": "41351549096",
+          "medication": {
+            "mId": 1972632483022720,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1972632802023180,
+          "prescriptionRcopiaIdentifier": "41351549101",
+          "medication": {
+            "mId": 1972632802023160,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1972631042019590,
+        "firstName": "TestUser12",
+        "lastName": "LastName123471327",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123471327 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1972631042019590-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1973033561270430,
+          "prescriptionRcopiaIdentifier": "41351555830",
+          "medication": {
+            "mId": 1973033561270410,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1973030544261690,
+        "firstName": "TestUser12",
+        "lastName": "LastName123594658",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123594658 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1973030544261690-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1973034432275220,
+          "prescriptionRcopiaIdentifier": "41351555836",
+          "medication": {
+            "mId": 1973034432275200,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1973030544261740,
+        "firstName": "TestUser12",
+        "lastName": "LastName123373953",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123373953 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1973030544261740-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1973036007278110,
+          "prescriptionRcopiaIdentifier": "41351555843",
+          "medication": {
+            "mId": 1973036007278090,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1973030544261790,
+        "firstName": "TestUser12",
+        "lastName": "LastName123325180",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName123325180 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1973030544261790-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1973037388279780,
+          "prescriptionRcopiaIdentifier": "41351555852",
+          "medication": {
+            "mId": 1973037388279770,
+            "medicationDescription": "Advil 200 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 4867 520 HIGHWAY 119, ALABASTER, AL 35007, Ph: (205) 663-5407 Fax: (205) 663-8697\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed",
+          "cancellationReason": "Medication Stopped"
+        }
+      ],
+      "patient": {
+        "pId": 1973035793276530,
+        "firstName": "TestUser12",
+        "lastName": "LastName12385549",
+        "dob": "1985-01-12T00:00:00Z",
+        "patientName": "TestUser12 LastName12385549 "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1973035793276530-1966807527608060"
+    },
+    {
+      "prescriptionDetails": [
+        {
+          "prescriptionId": 1973209999411120,
+          "prescriptionRcopiaIdentifier": "41351562780",
+          "medication": {
+            "mId": 1973202763408090,
+            "medicationDescription": "Dologen 650-2 mg tablet"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1973220207415770,
+          "prescriptionRcopiaIdentifier": "41351562794",
+          "medication": {
+            "mId": 1973220207415740,
+            "medicationDescription": "H2Q 100 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1973220207415760,
+          "prescriptionRcopiaIdentifier": "41351562795",
+          "medication": {
+            "mId": 1973220207415730,
+            "medicationDescription": "maca extract 500 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1973220207415750,
+          "prescriptionRcopiaIdentifier": "41351562797",
+          "medication": {
+            "mId": 1973220206415720,
+            "medicationDescription": "V-C Forte 1 mg capsule"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        },
+        {
+          "prescriptionId": 1973372779475070,
+          "prescriptionRcopiaIdentifier": "41351604609",
+          "medication": {
+            "mId": 1973372732475000,
+            "medicationDescription": "Vitamin C (ascorbate calcium) 814 mg/gram powder"
+          },
+          "pharmacy": "CVS Pharmacy # 6224 1902 S 4TH ST, CHICKASHA, OK 73018, Ph: (405) 222-1489 Fax: (405) 222-2627\r\n",
+          "createdByUserDetails": {
+            "pvId": 1966807527608060,
+            "firstName": "Harry",
+            "middleName": "S.",
+            "lastName": "Winston",
+            "suffix": "MD",
+            "userName": "Harry S. Winston MD"
+          },
+          "statusCode": "completed"
+        }
+      ],
+      "patient": {
+        "pId": 1973119409338560,
+        "firstName": "test",
+        "lastName": "cemfinal",
+        "dob": "2004-07-12T00:00:00Z",
+        "patientName": "test cemfinal "
+      },
+      "authorizingProvider": {
+        "pvId": 1966807527608060,
+        "firstName": "Harry",
+        "middleName": "S.",
+        "lastName": "Winston",
+        "suffix": "MD",
+        "userName": "Harry S. Winston MD"
+      },
+      "patientAndProviderId": "1973119409338560-1966807527608060"
     }
   ]
 }
